@@ -12,4 +12,4 @@ You should see lines such as `count from COM = ...` every second.
 
 ## Firmware
 
-Open `Lab5-01_downlink_check.ino` in the Arduino IDE and upload to your board. For library and submodule setup, see [src/README.md](src/README.md).
+Open `Lab5-01_Downlink_Check.ino` in the Arduino IDE and upload to your board. For library and submodule setup, see [src/README.md](src/README.md).
