@@ -6,7 +6,7 @@ Firmware that downlinks a 1-second count over XBee COM.
 
 Open in **Chrome or Edge**, then **Add Port** → **Connect** (38400 baud):
 
-**https://hepta-sat-training.github.io/hepta-serial-viewer/**
+**https://hepta-sat-training.github.io/HEPTA-SAT-Serial_Monitor/**
 
 You should see lines such as `count from COM = ...` every second.
 
